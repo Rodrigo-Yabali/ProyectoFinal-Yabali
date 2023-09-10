@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tercera Pre-Entrega</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/estilo.css">
+</head>
+
+<body>
+
+    <header>
+            
+        <h1 class="logo">Venta Por Catalogo</h1>
+                    
+    </header>
+
+    <ul class="nav justify-content-center">
+        <li class="nav-item">
+            <a class="nav-link" href="./index.html"> Seguir Comprando</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="./carrito.html">Carrito</a>
+        </li>
+    </ul>
+
+    <main>
+        <h2 class="titulo-principal">Carrito</h2>
+        <div class="contenedor-carrito">
+            <p id="carrito-vacio" class="carrito-vacio">En este momento tu carrito se encuentra vacio!</p>
+
+            <div id="carrito-productos" class="carrito-productos disabled">
+                
+            </div>
+
+            <div id="carrito-acciones" class="carrito-acciones disabled">
+                <div class="carrito-acciones-izquierda">
+                    <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
+                </div>
+                <div class="carrito-acciones-derecha">
+                    <div class="carrito-acciones-total">
+                        <p>Total:</p>
+                        <p id="total"></p>
+                    </div>
+                    <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">FINALIZAR COMPRA</button>
+                </div>
+            </div>
+
+            <p id="carrito-comprado" class="carrito-comprado disabled">Compra Finalizada! Muchas Gracias!</p>
+
+        </div>
+    </main>
+   
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/carrito.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+</body>
+</html>

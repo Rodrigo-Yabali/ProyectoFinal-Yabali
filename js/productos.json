@@ -1,0 +1,184 @@
+
+
+[
+    {
+        "id": "Rojo Cobrizo",
+        "titulo": "Rojo Cobrizo",
+        "imagen": "../img/tintura01.jpg",
+        "categoria": {
+            "nombre": "Tintura",
+            "id": "cabello"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Rubio Cenizas",
+        "titulo": "Rubio Cenizas",
+        "imagen": "../img/tintura02.jpg",
+        "categoria": {
+            "nombre": "Tintura",
+            "id": "cabello"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "Rosa",
+        "titulo": "Rosa",
+        "imagen": "../img/tintura03.jpg",
+        "categoria": {
+            "nombre": "Tintura",
+            "id": "cabello"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "Violeta",
+        "titulo": "Violeta",
+        "imagen": "../img/tintura04.jpg",
+        "categoria": {
+            "nombre": "Tintura",
+            "id": "cabello"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "Verde",
+        "titulo": "Verde",
+        "imagen": "../img/tintura05.jpg",
+        "categoria": {
+            "nombre": "Tintura",
+            "id": "cabello"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "Rosa Con Blanco",
+        "titulo": "Rosa Con Blanco",
+        "imagen": "../img/acrilico01.jpg",
+        "categoria": {
+            "nombre": "Acrilicos",
+            "id": "manicura"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Degradez de Rosa a Blanco",
+        "titulo": "Degradez de Rosa a Blanco",
+        "imagen": "../img/acrilico02.jpg",
+        "categoria": {
+            "nombre": "Acrilicos",
+            "id": "manicura"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "Degradez Invertido de Blanco a Rosa",
+        "titulo": "Degradez Invertido de Blanco a Rosa",
+        "imagen": "../img/acrilico03.jpg",
+        "categoria": {
+            "nombre": "Acrilicos",
+            "id": "manicura"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "Clarito en Punta",
+        "titulo": "Clarito en Punta",
+        "imagen": "../img/acrilico04.jpg",
+        "categoria": {
+            "nombre": "Acrilicos",
+            "id": "manicura"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Rosa y Amarrillo",
+        "titulo": "Rosa y Amarrillo",
+        "imagen": "../img/acrilico05.jpg",
+        "categoria": {
+            "nombre": "Acrilicos",
+            "id": "manicura"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "Formal Estudiante",
+        "titulo": "Formal Estudiante",
+        "imagen": "../img/acrilico06.jpg",
+        "categoria": {
+            "nombre": "Acrilicos",
+            "id": "manicura"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "Formal Bordo",
+        "titulo": "Formal Bordo",
+        "imagen": "../img/acrilico07.jpg",
+        "categoria": {
+            "nombre": "Acrilicos",
+            "id": "manicura"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Rosa con Detalles Minimos en Blanco",
+        "titulo": "Rosa con Detalles Minimos en Blanco",
+        "imagen": "../img/acrilico08.jpg",
+        "categoria": {
+            "nombre": "Acrilicos",
+            "id": "manicura"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "Rosa con Detalles Minimos en Blanco para Pies",
+        "titulo": "Rosa con Detalles Minimos en Blanco para Pies",
+        "imagen": "../img/tratamiento01.jpg",
+        "categoria": {
+            "nombre": "Tratamientos",
+            "id": "pedicura"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Animacion en Verde",
+        "titulo": "Animacion en Verde",
+        "imagen": "../img/tratamiento02.jpg",
+        "categoria": {
+            "nombre": "Tratamientos",
+            "id": "pedicura"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "Animacion en Rosa",
+        "titulo": "Animacion en Rosa",
+        "imagen": "../img/tratamiento03.jpg",
+        "categoria": {
+            "nombre": "Tratamientos",
+            "id": "pedicura"
+        },
+        "precio": 1900
+    },
+    {
+        "id": "Bordo para Pies",
+        "titulo": "Bordo para Pies",
+        "imagen": "../img/tratamiento04.jpg",
+        "categoria": {
+            "nombre": "Tratamientos",
+            "id": "pedicura"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Blanco para Pies",
+        "titulo": "Blanco para Pies",
+        "imagen": "../img/tratamiento05.jpg",
+        "categoria": {
+            "nombre": "Tratamientos",
+            "id": "pedicura"
+        },
+        "precio": 2500
+    }
+]
